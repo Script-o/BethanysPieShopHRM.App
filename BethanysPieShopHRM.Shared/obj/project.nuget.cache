@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IYgCp9DL3sc=",
+  "success": true,
+  "projectFilePath": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jon\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

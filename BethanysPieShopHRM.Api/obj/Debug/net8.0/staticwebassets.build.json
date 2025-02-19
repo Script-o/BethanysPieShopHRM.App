@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EYPmS7TWFy0YB4OixFZl37e3UU26Nd3gMP0VnUn9sPU=",
+  "Source": "BethanysPieShopHRM.Api",
+  "BasePath": "_content/BethanysPieShopHRM.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

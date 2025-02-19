@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BethanysPieShopHRM.App.styles.css",
+      "PackagePath": "staticwebassets\\BethanysPieShopHRM.App.styles.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\wwwroot\\images\\bethanylogo.png",
+      "PackagePath": "staticwebassets\\images\\bethanylogo.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\wwwroot\\images\\pattern.png",
+      "PackagePath": "staticwebassets\\images\\pattern.png"
+    },
+    {
+      "Id": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\wwwroot\\images\\profilePicture.jpg",
+      "PackagePath": "staticwebassets\\images\\profilePicture.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BethanysPieShopHRM.App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BethanysPieShopHRM.App.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BethanysPieShopHRM.App.props",
+      "PackagePath": "build\\BethanysPieShopHRM.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BethanysPieShopHRM.App.props",
+      "PackagePath": "buildMultiTargeting\\BethanysPieShopHRM.App.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BethanysPieShopHRM.App.props",
+      "PackagePath": "buildTransitive\\BethanysPieShopHRM.App.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

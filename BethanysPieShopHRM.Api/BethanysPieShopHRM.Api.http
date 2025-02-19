@@ -1,0 +1,6 @@
+@BethanysPieShopHRM.Api_HostAddress = http://*
+
+GET {{BethanysPieShopHRM.Api_HostAddress}}
+Accept: application/json
+
+###
