@@ -331,6 +331,7 @@ D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\Betha
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\BethanysPieShopHRM.Api.csproj.CoreCompileInputs.cache
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\BethanysPieShopHRM.Api.MvcApplicationPartsAssemblyInfo.cs
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\BethanysPieShopHRM.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\BethanysPieShopHRM.Api.sourcelink.json
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\scopedcss\bundle\BethanysPieShopHRM.Api.styles.css
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\staticwebassets.build.json
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\staticwebassets.development.json
@@ -348,3 +349,4 @@ D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\refin
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\BethanysPieShopHRM.Api.pdb
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\BethanysPieShopHRM.Api.genruntimeconfig.cache
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\ref\BethanysPieShopHRM.Api.dll
+D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\bin\Debug\net8.0\BethanysPieShopHRM.Api.staticwebassets.runtime.json

@@ -39,6 +39,7 @@ D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\obj\Debu
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\obj\Debug\netstandard2.0\BethanysPieShopHRM.ComponentsLibrary.TagHelpers.output.cache
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\obj\Debug\netstandard2.0\BethanysPieShopHRM.ComponentsLibrary.RazorCoreGenerate.cache
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\obj\Debug\netstandard2.0\Razor\Map\Map.razor.g.cs
+D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\obj\Debug\netstandard2.0\BethanysPieShopHRM.ComponentsLibrary.sourcelink.json
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\obj\Debug\netstandard2.0\BethanysPieShopHRM.ComponentsLibrary.RazorTargetAssemblyInfo.cache
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\obj\Debug\netstandard2.0\staticwebassets\BethanysPieShopHRM.ComponentsLibrary.StaticWebAssets.Manifest.cache
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\obj\Debug\netstandard2.0\staticwebassets\BethanysPieShopHRM.ComponentsLibrary.StaticWebAssets.Pack.cache

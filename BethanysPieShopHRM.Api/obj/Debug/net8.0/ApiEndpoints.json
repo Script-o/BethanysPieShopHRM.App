@@ -100,6 +100,37 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "BethanysPieShopHRM.Api.Controllers.EmployeeController",
+    "Method": "GetLongEmployeeList",
+    "RelativePath": "api/Employee/long",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BethanysPieShopHRM.Api.Controllers.EmployeeController",
+    "Method": "GetLongEmployeeList",
+    "RelativePath": "api/Employee/long/{startindex}/{count}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startIndex",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "count",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "BethanysPieShopHRM.Api.Controllers.JobCategoryController",
     "Method": "GetJobCategories",
     "RelativePath": "api/JobCategory",

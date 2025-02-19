@@ -8,13 +8,20 @@
 	<section class="=employee-edit">
 		<h1 class="page-title">Details for @Employee.FirstName @Employee.LastName</h1>
 		<EditForm Model="@Employee" OnValidSubmit="HandleValidSubmit"
-			OnInvalidSubmit="@HandleInvalidSubmit">
+		OnInvalidSubmit="@HandleInvalidSubmit">
 
 			<DataAnnotationsValidator />
 			<ValidationSummary></ValidationSummary>
+
+			<div class="form-group row">
+				<label for="image" class="col-sm-3">Select image: </label>
+				<InputFile OnChange="OnInputFileChange" multiple />
+			</div>
+
 			<div class="form-group row">
 				<label for="lastName" class="col-sm-3">Last name: </label>
-				<InputText id="lastName" @bind-Value="@Employee.LastName" class="form-control col-sm-8" placeholder="Enter last name"></InputText>
+				@* <InputText id="lastName" @bind-Value="@Employee.LastName" class="form-control col-sm-8" placeholder="Enter last name"></InputText> *@
+				<input @ref="LastNameInput" id="lastName" class="form-control col-sm-8" @bind="@Employee.LastName" />
 				<ValidationMessage class="offset-sm-3 col-sm-8" For="@(() => Employee.LastName)" />
 
 			</div>
@@ -100,11 +107,21 @@
 
 			<div class="form-group row">
 				<label for="gender" class="col-sm-3">Gender: </label>
-				<InputSelect id="gender" class="form-control col-sm-8" @bind-Value=@Employee.Gender>
+				@* <InputSelect id="gender" class="form-control col-sm-8" @bind-Value=@Employee.Gender>
 					<option value="@(Gender.Male)">Male</option>
 					<option value="@(Gender.Female)">Female</option>
 					<option value="@(Gender.Other)">Other</option>
-				</InputSelect>
+				</InputSelect> *@
+				<InputRadioGroup Name="genderRadioGroup" @bind-Value="@Employee.Gender">
+					Gender:
+					<br />
+					@foreach (var gender in (Gender[])Enum.GetValues(typeof(Gender)))
+					{
+						<InputRadio Name ="genderRadioGroup" Value="gender" />
+						@gender
+						<br /><br />
+					}
+				</InputRadioGroup>
 			</div>
 
 			<div class="form-group row">

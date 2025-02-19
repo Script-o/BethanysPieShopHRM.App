@@ -8,32 +8,32 @@ namespace BethanysPieShopHRM.ComponentsLibrary.Map
 {
     #line default
     using global::System.Linq;
-#line 1 "D:\PROJECTS\C#-Examples\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
+#line 1 "D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
  using System
 
     ;
-#line 2 "D:\PROJECTS\C#-Examples\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
+#line 2 "D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
  using System.Collections.Generic
 
     ;
-#line 3 "D:\PROJECTS\C#-Examples\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
+#line 3 "D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
  using System.Threading.Tasks
 
     ;
-#line 4 "D:\PROJECTS\C#-Examples\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
+#line 4 "D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
  using Microsoft.AspNetCore.Components
 
     ;
-#line 5 "D:\PROJECTS\C#-Examples\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
+#line 5 "D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
  using Microsoft.JSInterop
 
     ;
-#line 6 "D:\PROJECTS\C#-Examples\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
+#line 6 "D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
  using BethanysPieShopHRM.ComponentsLibrary.Map
 
-#line default
-#line hidden
     ;
+    #line default
+    #line hidden
     public partial class Map : global::Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -41,7 +41,7 @@ namespace BethanysPieShopHRM.ComponentsLibrary.Map
         {
         }
         #pragma warning restore 1998
-#line 11 "D:\PROJECTS\C#-Examples\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
+#line 11 "D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
        
 
     string elementId = $"map-{Guid.NewGuid().ToString("D")}";
@@ -64,13 +64,13 @@ namespace BethanysPieShopHRM.ComponentsLibrary.Map
 #line hidden
 
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private 
-#line 7 "D:\PROJECTS\C#-Examples\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
+#line 7 "D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
         IJSRuntime
 
 #line default
 #line hidden
          
-#line 7 "D:\PROJECTS\C#-Examples\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
+#line 7 "D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.ComponentsLibrary\Map\Map.razor"
                    JSRuntime
 
 #line default

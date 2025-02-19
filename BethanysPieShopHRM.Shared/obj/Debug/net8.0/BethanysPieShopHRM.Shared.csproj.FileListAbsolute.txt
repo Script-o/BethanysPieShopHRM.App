@@ -16,6 +16,7 @@ D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net8.0\Be
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net8.0\BethanysPieShopHRM.Shared.AssemblyInfoInputs.cache
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net8.0\BethanysPieShopHRM.Shared.AssemblyInfo.cs
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net8.0\BethanysPieShopHRM.Shared.csproj.CoreCompileInputs.cache
+D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net8.0\BethanysPieShopHRM.Shared.sourcelink.json
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net8.0\BethanysPieShopHRM.Shared.dll
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net8.0\refint\BethanysPieShopHRM.Shared.dll
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Shared\obj\Debug\net8.0\BethanysPieShopHRM.Shared.pdb

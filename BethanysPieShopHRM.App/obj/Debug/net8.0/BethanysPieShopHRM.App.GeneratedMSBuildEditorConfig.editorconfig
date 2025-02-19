@@ -44,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVPdmVydmlldy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/PROJECTS/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Pages/EmployeeOverviewVirtual.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVPdmVydmlld1ZpcnR1YWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/PROJECTS/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
