@@ -175,6 +175,7 @@ D:\PROJECTS\C#-Examples\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\
 D:\PROJECTS\C#-Examples\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\ref\BethanysPieShopHRM.Api.dll
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\bin\Debug\net8.0\appsettings.Development.json
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\bin\Debug\net8.0\appsettings.json
+D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\bin\Debug\net8.0\BethanysPieShopHRM.Api.staticwebassets.runtime.json
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\bin\Debug\net8.0\BethanysPieShopHRM.Api.staticwebassets.endpoints.json
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\bin\Debug\net8.0\BethanysPieShopHRM.Api.exe
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\bin\Debug\net8.0\BethanysPieShopHRM.Api.deps.json
@@ -349,4 +350,3 @@ D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\refin
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\BethanysPieShopHRM.Api.pdb
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\BethanysPieShopHRM.Api.genruntimeconfig.cache
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\obj\Debug\net8.0\ref\BethanysPieShopHRM.Api.dll
-D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.Api\bin\Debug\net8.0\BethanysPieShopHRM.Api.staticwebassets.runtime.json

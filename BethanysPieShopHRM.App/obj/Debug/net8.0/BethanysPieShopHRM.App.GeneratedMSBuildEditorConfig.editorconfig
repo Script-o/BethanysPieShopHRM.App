@@ -48,10 +48,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVPdmVydmlld1ZpcnR1YWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/PROJECTS/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/PROJECTS/BethanysPieShopHRM.App/BethanysPieShopHRM.App/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -63,3 +59,7 @@ build_metadata.AdditionalFiles.CssScope = b-a7z2k21a0q
 [D:/PROJECTS/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-be094ndh55
+
+[D:/PROJECTS/BethanysPieShopHRM.App/BethanysPieShopHRM.App/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4lzu1w7f01

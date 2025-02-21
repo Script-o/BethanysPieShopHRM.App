@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BethanysPieShopHRM.App",
   "resources": {
-    "hash": "sha256-GCtCYwDUW5VxnZ0WON27MJvUnJYtE9S2IS6qFAj71mo=",
+    "hash": "sha256-txWhFiiyA+smTep6CeXCsY++y13fzx2rS0Mi7gH7RHQ=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-xNQsYHtL1vcbrVTHDZAwJM4WovpoyjsrM2C6FQ8cW1w="
     },
@@ -213,14 +213,16 @@
       "mscorlib.wasm": "sha256-RAf5jgXLg+06C4tJ3CabxAZaVjCN2/+E6fxRjRN8yHk=",
       "netstandard.wasm": "sha256-KCAE8RQwTurP5pGnGF819qf9sK++2O0rXzt6tOjlfi8=",
       "System.Private.CoreLib.wasm": "sha256-LQqLbHgeEX4HONx7GwIxGgmzIXP6n2OPxqnq+/4Tyqk=",
-      "BethanysPieShopHRM.ComponentsLibrary.wasm": "sha256-krpxl1YGB+XGaSLB/nWrIajPngs/vTpjvR+i/kkqEGI=",
-      "BethanysPieShopHRM.Shared.wasm": "sha256-dDZuMXj5IK34gA34moTSSpdhqIgRN9gEEDZ8IrvNm6c=",
-      "BethanysPieShopHRM.App.wasm": "sha256-Pd2lR+4RV/TghJq3tx4v5nxMmNbWkXVcFi2/vTFf03M="
+      "BethanysPieShopHRM.Shared.wasm": "sha256-8+OraHQYtITXYzU6JbHBydEM1WXZawYLotWg8YHwMqQ=",
+      "BethanysPieShopHRM.App.wasm": "sha256-BNo9HOBGzS8uZwvtfs3/KqIfBQTenI3AE442SWyXcWY="
     },
     "pdb": {
-      "BethanysPieShopHRM.ComponentsLibrary.pdb": "sha256-//iE9c58rhIqaBvpq+6k/t/25WtY5lDi+HEiRKMjY1w=",
-      "BethanysPieShopHRM.Shared.pdb": "sha256-gdCL9z8+l4jURhAY5EADech0eig7qcK1Elh5RdfqsQs=",
-      "BethanysPieShopHRM.App.pdb": "sha256-9fEjOSK4VOtp1wMjPHNU8CJ2aBN2LEuFSlqKGoCsEI0="
+      "BethanysPieShopHRM.Shared.pdb": "sha256-CbSnv4hz6D+6mSDaf2VLPi4Hgtlhz7sjLCGIgtVkn2Q=",
+      "BethanysPieShopHRM.App.pdb": "sha256-kdu5oR7kNec3cYtJ1R1SLZVNa41RirG3Pvm5TgwTwp4="
+    },
+    "lazyAssembly": {
+      "BethanysPieShopHRM.ComponentsLibrary.wasm": "sha256-RRQHqHwG2irQqyAwC/TeBDMWPsJZqFLGf51DKlD1eh0=",
+      "BethanysPieShopHRM.ComponentsLibrary.pdb": "sha256-ugkC2+gmAIm0YYU80yDKZEOJ/msDUdO33s+ASK5vV1w="
     }
   },
   "cacheBootResources": true,

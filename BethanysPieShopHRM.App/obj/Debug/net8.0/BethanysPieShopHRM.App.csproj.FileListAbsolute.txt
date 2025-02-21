@@ -1501,6 +1501,8 @@ D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net8.0\wwwro
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net8.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.wasm.gz
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.wasm.gz
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.wasm.gz
+D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net8.0\BethanysPieShopHRM.ComponentsLibrary.staticwebassets.runtime.json
+D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net8.0\BethanysPieShopHRM.ComponentsLibrary.staticwebassets.endpoints.json
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net8.0\BethanysPieShopHRM.App.staticwebassets.runtime.json
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net8.0\BethanysPieShopHRM.App.staticwebassets.endpoints.json
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\bin\Debug\net8.0\BethanysPieShopHRM.App.dll
@@ -1921,6 +1923,7 @@ D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\webci
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\webcil\BethanysPieShopHRM.App.wasm
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\scopedcss\Layout\MainLayout.razor.rz.scp.css
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\scopedcss\Layout\NavMenu.razor.rz.scp.css
+D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\scopedcss\Pages\Index.razor.rz.scp.css
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\scopedcss\bundle\BethanysPieShopHRM.App.styles.css
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\scopedcss\projectbundle\BethanysPieShopHRM.App.bundle.scp.css
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\blazor.build.boot-extension.json
@@ -2131,8 +2134,10 @@ D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compr
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\45pcfjnzf8-tptq2av103.gz
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\jkwi1n0ct8-lfu7j35m59.gz
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\0tmgs4vwua-oyz0vx2fzb.gz
-D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\s63chmhlnd-atdeoolhvs.gz
-D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\h64blbm5nq-vocbobcsxj.gz
+D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\s63chmhlnd-roonj3v1s5.gz
+D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\y8eq1bjj58-5quq2bnlzk.gz
+D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\h64blbm5nq-ixt3wvoz5j.gz
+D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\ywu1k21v8k-fq8faq4drq.gz
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\staticwebassets.build.json
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\staticwebassets.development.json
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -2148,8 +2153,6 @@ D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\Betha
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\refint\BethanysPieShopHRM.App.dll
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\BethanysPieShopHRM.App.pdb
 D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\ref\BethanysPieShopHRM.App.dll
-D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\y8eq1bjj58-8hmvyt9vyz.gz
-D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\ywu1k21v8k-v8kkk23a05.gz
-D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\8jv0xusflg-nbau3kmynv.gz
-D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\ig7c1ttj0n-50nu2giy5y.gz
-D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\0bso6i3qtr-pis04e44md.gz
+D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\8jv0xusflg-cqxlc03641.gz
+D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\ig7c1ttj0n-td6prd6h99.gz
+D:\PROJECTS\BethanysPieShopHRM.App\BethanysPieShopHRM.App\obj\Debug\net8.0\compressed\0bso6i3qtr-m25oxcqxe3.gz

@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="BethanysPieShopHRM.App.h0i5z5p2a8.styles.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BethanysPieShopHRM.App.styles.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h0i5z5p2a8"},{"Name":"integrity","Value":"sha256-cTH5RCWCTtIBrG4Lw8PX8rmVhdkO8w6k\u002Bf0yqvQdYnA="},{"Name":"label","Value":"BethanysPieShopHRM.App.styles.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4653"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022cTH5RCWCTtIBrG4Lw8PX8rmVhdkO8w6k\u002Bf0yqvQdYnA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 19:09:39 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="BethanysPieShopHRM.App.styles.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BethanysPieShopHRM.App.styles.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cTH5RCWCTtIBrG4Lw8PX8rmVhdkO8w6k\u002Bf0yqvQdYnA="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4653"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022cTH5RCWCTtIBrG4Lw8PX8rmVhdkO8w6k\u002Bf0yqvQdYnA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 19 Feb 2025 19:09:39 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OhZittK3t5C65KQ3n3aWUQTk6Py3gM0dhoiogKtteN4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4730"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022OhZittK3t5C65KQ3n3aWUQTk6Py3gM0dhoiogKtteN4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 05:04:10 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="BethanysPieShopHRM.App.ypqakwflo3.styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BethanysPieShopHRM.App.styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ypqakwflo3"},{"Name":"integrity","Value":"sha256-OhZittK3t5C65KQ3n3aWUQTk6Py3gM0dhoiogKtteN4="},{"Name":"label","Value":"BethanysPieShopHRM.App.styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4730"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022OhZittK3t5C65KQ3n3aWUQTk6Py3gM0dhoiogKtteN4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 20 Feb 2025 05:04:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="css/app.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</AssetFile>

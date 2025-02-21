@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "A9oLcfqbLl9VkEpHVvCW5qpa3LywRBDUwBCM+NazCLE=",
+  "Source": "BethanysPieShopHRM.ComponentsLibrary",
+  "BasePath": "_content/BethanysPieShopHRM.ComponentsLibrary",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BethanysPieShopHRM.ComponentsLibrary\\wwwroot",
+      "Source": "BethanysPieShopHRM.ComponentsLibrary",
+      "ContentRoot": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\",
+      "BasePath": "_content/BethanysPieShopHRM.ComponentsLibrary",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\deliveryMap.js",
+      "SourceId": "BethanysPieShopHRM.ComponentsLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\",
+      "BasePath": "_content/BethanysPieShopHRM.ComponentsLibrary",
+      "RelativePath": "deliveryMap#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j5c5ko88s0",
+      "Integrity": "x0D63/nxU9oxiFEVBtZe5m7hK19TIUwYDIE1G8MsAlM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\deliveryMap.js"
+    },
+    {
+      "Identity": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
+      "SourceId": "BethanysPieShopHRM.ComponentsLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\",
+      "BasePath": "_content/BethanysPieShopHRM.ComponentsLibrary",
+      "RelativePath": "leaflet/images/layers#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ptvguihtoq",
+      "Integrity": "Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\leaflet\\images\\layers.png"
+    },
+    {
+      "Identity": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers-2x.png",
+      "SourceId": "BethanysPieShopHRM.ComponentsLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\",
+      "BasePath": "_content/BethanysPieShopHRM.ComponentsLibrary",
+      "RelativePath": "leaflet/images/layers-2x#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ef5uc09gvw",
+      "Integrity": "Bm2sqFDY/77wB68AsG6sABVyje4nnFHzy2xxbffELt8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\leaflet\\images\\layers-2x.png"
+    },
+    {
+      "Identity": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "SourceId": "BethanysPieShopHRM.ComponentsLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\",
+      "BasePath": "_content/BethanysPieShopHRM.ComponentsLibrary",
+      "RelativePath": "leaflet/images/marker-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vq9wvlav5t",
+      "Integrity": "V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\leaflet\\images\\marker-icon.png"
+    },
+    {
+      "Identity": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon-2x.png",
+      "SourceId": "BethanysPieShopHRM.ComponentsLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\",
+      "BasePath": "_content/BethanysPieShopHRM.ComponentsLibrary",
+      "RelativePath": "leaflet/images/marker-icon-2x#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0gkuypkyzq",
+      "Integrity": "ABecTB7oMNOhCEEq4NKU9Vd2z+sIXGASmjmqb8SuJSg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\leaflet\\images\\marker-icon-2x.png"
+    },
+    {
+      "Identity": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-shadow.png",
+      "SourceId": "BethanysPieShopHRM.ComponentsLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\",
+      "BasePath": "_content/BethanysPieShopHRM.ComponentsLibrary",
+      "RelativePath": "leaflet/images/marker-shadow#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "enp07i83pd",
+      "Integrity": "Jk9cZAM58ELdcpBiz8BMF/jqDymIK1OOOEjtjxDttNo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\leaflet\\images\\marker-shadow.png"
+    },
+    {
+      "Identity": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.css",
+      "SourceId": "BethanysPieShopHRM.ComponentsLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\",
+      "BasePath": "_content/BethanysPieShopHRM.ComponentsLibrary",
+      "RelativePath": "leaflet/leaflet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l3uk5ljubh",
+      "Integrity": "YR4HrDE479EpYZgeTkQfgVJq08+277UXxMLbi/YP69o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\leaflet\\leaflet.css"
+    },
+    {
+      "Identity": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.js",
+      "SourceId": "BethanysPieShopHRM.ComponentsLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\",
+      "BasePath": "_content/BethanysPieShopHRM.ComponentsLibrary",
+      "RelativePath": "leaflet/leaflet#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7x5x9225vf",
+      "Integrity": "xRK8RQmYAZjMTR2Wks499L2ILHa9LlRLTWuxVp+z8ww=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\leaflet\\leaflet.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "deliveryMap.j5c5ko88s0.js",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\deliveryMap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x0D63/nxU9oxiFEVBtZe5m7hK19TIUwYDIE1G8MsAlM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j5c5ko88s0"
+        },
+        {
+          "Name": "label",
+          "Value": "deliveryMap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x0D63/nxU9oxiFEVBtZe5m7hK19TIUwYDIE1G8MsAlM="
+        }
+      ]
+    },
+    {
+      "Route": "deliveryMap.js",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\deliveryMap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x0D63/nxU9oxiFEVBtZe5m7hK19TIUwYDIE1G8MsAlM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x0D63/nxU9oxiFEVBtZe5m7hK19TIUwYDIE1G8MsAlM="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/images/layers.png",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/images/layers.ptvguihtoq.png",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "696"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ptvguihtoq"
+        },
+        {
+          "Name": "label",
+          "Value": "leaflet/images/layers.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/images/layers-2x.ef5uc09gvw.png",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers-2x.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bm2sqFDY/77wB68AsG6sABVyje4nnFHzy2xxbffELt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ef5uc09gvw"
+        },
+        {
+          "Name": "label",
+          "Value": "leaflet/images/layers-2x.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bm2sqFDY/77wB68AsG6sABVyje4nnFHzy2xxbffELt8="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/images/layers-2x.png",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\layers-2x.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1259"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Bm2sqFDY/77wB68AsG6sABVyje4nnFHzy2xxbffELt8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Bm2sqFDY/77wB68AsG6sABVyje4nnFHzy2xxbffELt8="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/images/marker-icon.png",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/images/marker-icon.vq9wvlav5t.png",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vq9wvlav5t"
+        },
+        {
+          "Name": "label",
+          "Value": "leaflet/images/marker-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/images/marker-icon-2x.0gkuypkyzq.png",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon-2x.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ABecTB7oMNOhCEEq4NKU9Vd2z+sIXGASmjmqb8SuJSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0gkuypkyzq"
+        },
+        {
+          "Name": "label",
+          "Value": "leaflet/images/marker-icon-2x.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ABecTB7oMNOhCEEq4NKU9Vd2z+sIXGASmjmqb8SuJSg="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/images/marker-icon-2x.png",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-icon-2x.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2464"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ABecTB7oMNOhCEEq4NKU9Vd2z+sIXGASmjmqb8SuJSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ABecTB7oMNOhCEEq4NKU9Vd2z+sIXGASmjmqb8SuJSg="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/images/marker-shadow.enp07i83pd.png",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-shadow.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jk9cZAM58ELdcpBiz8BMF/jqDymIK1OOOEjtjxDttNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "enp07i83pd"
+        },
+        {
+          "Name": "label",
+          "Value": "leaflet/images/marker-shadow.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jk9cZAM58ELdcpBiz8BMF/jqDymIK1OOOEjtjxDttNo="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/images/marker-shadow.png",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\images\\marker-shadow.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "618"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jk9cZAM58ELdcpBiz8BMF/jqDymIK1OOOEjtjxDttNo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jk9cZAM58ELdcpBiz8BMF/jqDymIK1OOOEjtjxDttNo="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/leaflet.7x5x9225vf.js",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xRK8RQmYAZjMTR2Wks499L2ILHa9LlRLTWuxVp+z8ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7x5x9225vf"
+        },
+        {
+          "Name": "label",
+          "Value": "leaflet/leaflet.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xRK8RQmYAZjMTR2Wks499L2ILHa9LlRLTWuxVp+z8ww="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/leaflet.css",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YR4HrDE479EpYZgeTkQfgVJq08+277UXxMLbi/YP69o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YR4HrDE479EpYZgeTkQfgVJq08+277UXxMLbi/YP69o="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/leaflet.js",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xRK8RQmYAZjMTR2Wks499L2ILHa9LlRLTWuxVp+z8ww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xRK8RQmYAZjMTR2Wks499L2ILHa9LlRLTWuxVp+z8ww="
+        }
+      ]
+    },
+    {
+      "Route": "leaflet/leaflet.l3uk5ljubh.css",
+      "AssetFile": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\wwwroot\\leaflet\\leaflet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14106"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YR4HrDE479EpYZgeTkQfgVJq08+277UXxMLbi/YP69o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 04:22:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l3uk5ljubh"
+        },
+        {
+          "Name": "label",
+          "Value": "leaflet/leaflet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YR4HrDE479EpYZgeTkQfgVJq08+277UXxMLbi/YP69o="
+        }
+      ]
+    }
+  ]
+}

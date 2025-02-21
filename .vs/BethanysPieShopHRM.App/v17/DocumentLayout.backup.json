@@ -3,68 +3,28 @@
   "WorkspaceRootPath": "D:\\PROJECTS\\BethanysPieShopHRM.App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.app\\pages\\employeeoverviewvirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|solutionrelative:bethanyspieshophrm.app\\pages\\employeeoverviewvirtual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.app\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|solutionrelative:bethanyspieshophrm.app\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.app\\pages\\employeeoverviewvirtual.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|solutionrelative:bethanyspieshophrm.app\\pages\\employeeoverviewvirtual.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.app\\bethanyspieshophrm.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|solutionrelative:bethanyspieshophrm.app\\bethanyspieshophrm.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABFFFE63-4F35-4DAF-8F23-A800B3104A05}|BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABFFFE63-4F35-4DAF-8F23-A800B3104A05}|BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj|solutionrelative:bethanyspieshophrm.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.app\\services\\employeedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|solutionrelative:bethanyspieshophrm.app\\services\\employeedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABFFFE63-4F35-4DAF-8F23-A800B3104A05}|BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.api\\models\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABFFFE63-4F35-4DAF-8F23-A800B3104A05}|BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj|solutionrelative:bethanyspieshophrm.api\\models\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABFFFE63-4F35-4DAF-8F23-A800B3104A05}|BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.api\\models\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABFFFE63-4F35-4DAF-8F23-A800B3104A05}|BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj|solutionrelative:bethanyspieshophrm.api\\models\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.app\\pages\\employeeedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|solutionrelative:bethanyspieshophrm.app\\pages\\employeeedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.app\\pages\\employeeedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|solutionrelative:bethanyspieshophrm.app\\pages\\employeeedit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.app\\pages\\employeeoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|solutionrelative:bethanyspieshophrm.app\\pages\\employeeoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABFFFE63-4F35-4DAF-8F23-A800B3104A05}|BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ABFFFE63-4F35-4DAF-8F23-A800B3104A05}|BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj|solutionrelative:bethanyspieshophrm.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|solutionrelative:bethanyspieshophrm.app\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABFFFE63-4F35-4DAF-8F23-A800B3104A05}|BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ABFFFE63-4F35-4DAF-8F23-A800B3104A05}|BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj|solutionrelative:bethanyspieshophrm.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|solutionrelative:bethanyspieshophrm.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12B87794-0061-4AC8-B6FD-DD391356F666}|BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.shared\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12B87794-0061-4AC8-B6FD-DD391356F666}|BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj|solutionrelative:bethanyspieshophrm.shared\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ABFFFE63-4F35-4DAF-8F23-A800B3104A05}|BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.api\\properties\\publishprofiles\\bethanyspieshophrmapi - web deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{ABFFFE63-4F35-4DAF-8F23-A800B3104A05}|BethanysPieShopHRM.Api\\BethanysPieShopHRM.Api.csproj|solutionrelative:bethanyspieshophrm.api\\properties\\publishprofiles\\bethanyspieshophrmapi - web deploy.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8A18DBDE-C50A-4416-BD79-8CFB215858E9}|BethanysPieShopHRM.ComponentsLibrary\\BethanysPieShopHRM.ComponentsLibrary.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.componentslibrary\\map\\map.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A18DBDE-C50A-4416-BD79-8CFB215858E9}|BethanysPieShopHRM.ComponentsLibrary\\BethanysPieShopHRM.ComponentsLibrary.csproj|solutionrelative:bethanyspieshophrm.componentslibrary\\map\\map.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.app\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|solutionrelative:bethanyspieshophrm.app\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.app\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|solutionrelative:bethanyspieshophrm.app\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|d:\\projects\\bethanyspieshophrm.app\\bethanyspieshophrm.app\\pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{37F0104E-8841-4361-95D5-ECF1DB798097}|BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj|solutionrelative:bethanyspieshophrm.app\\pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -79,209 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmployeeOverviewVirtual.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Pages\\EmployeeOverviewVirtual.cs",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM.App\\Pages\\EmployeeOverviewVirtual.cs",
-              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Pages\\EmployeeOverviewVirtual.cs",
-              "RelativeToolTip": "BethanysPieShopHRM.App\\Pages\\EmployeeOverviewVirtual.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T22:25:09.426Z",
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\App.razor",
+              "RelativeDocumentMoniker": "BethanysPieShopHRM.App\\App.razor",
+              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\App.razor",
+              "RelativeToolTip": "BethanysPieShopHRM.App\\App.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T04:53:36.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EmployeeOverviewVirtual.razor",
-              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Pages\\EmployeeOverviewVirtual.razor",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM.App\\Pages\\EmployeeOverviewVirtual.razor",
-              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Pages\\EmployeeOverviewVirtual.razor*",
-              "RelativeToolTip": "BethanysPieShopHRM.App\\Pages\\EmployeeOverviewVirtual.razor*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T22:24:55.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmployeeDataService.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Services\\EmployeeDataService.cs",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM.App\\Services\\EmployeeDataService.cs",
-              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Services\\EmployeeDataService.cs",
-              "RelativeToolTip": "BethanysPieShopHRM.App\\Services\\EmployeeDataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T22:21:47.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IEmployeeRepository.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Api\\Models\\IEmployeeRepository.cs",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM.Api\\Models\\IEmployeeRepository.cs",
-              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Api\\Models\\IEmployeeRepository.cs",
-              "RelativeToolTip": "BethanysPieShopHRM.Api\\Models\\IEmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T22:33:37.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeRepository.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Api\\Models\\EmployeeRepository.cs",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM.Api\\Models\\EmployeeRepository.cs",
-              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Api\\Models\\EmployeeRepository.cs",
-              "RelativeToolTip": "BethanysPieShopHRM.Api\\Models\\EmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T22:15:15.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmployeeEdit.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Pages\\EmployeeEdit.cs",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM.App\\Pages\\EmployeeEdit.cs",
-              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Pages\\EmployeeEdit.cs",
-              "RelativeToolTip": "BethanysPieShopHRM.App\\Pages\\EmployeeEdit.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T19:07:04.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EmployeeEdit.razor",
-              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Pages\\EmployeeEdit.razor",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM.App\\Pages\\EmployeeEdit.razor",
-              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Pages\\EmployeeEdit.razor",
-              "RelativeToolTip": "BethanysPieShopHRM.App\\Pages\\EmployeeEdit.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABpAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T19:39:20.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Api\\Startup.cs",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM.Api\\Startup.cs",
-              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Api\\Startup.cs",
-              "RelativeToolTip": "BethanysPieShopHRM.Api\\Startup.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T19:36:52.489Z",
+              "Title": "BethanysPieShopHRM.App",
+              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj",
+              "RelativeDocumentMoniker": "BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj",
+              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj*",
+              "RelativeToolTip": "BethanysPieShopHRM.App\\BethanysPieShopHRM.App.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-20T04:52:24.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Api\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM.Api\\Controllers\\EmployeeController.cs",
-              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Api\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "BethanysPieShopHRM.Api\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAiwCUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T19:07:04.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EmployeeOverview.razor",
-              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Pages\\EmployeeOverview.razor",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM.App\\Pages\\EmployeeOverview.razor",
-              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Pages\\EmployeeOverview.razor",
-              "RelativeToolTip": "BethanysPieShopHRM.App\\Pages\\EmployeeOverview.razor",
-              "ViewState": "AgIAAAIAAAAAAAAAAADwvx0AAAAYAAAAAAAAAA==",
+              "Title": "Map.razor",
+              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\Map\\Map.razor",
+              "RelativeDocumentMoniker": "BethanysPieShopHRM.ComponentsLibrary\\Map\\Map.razor",
+              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.ComponentsLibrary\\Map\\Map.razor",
+              "RelativeToolTip": "BethanysPieShopHRM.ComponentsLibrary\\Map\\Map.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T19:47:14.213Z",
+              "WhenOpened": "2025-02-20T04:52:05.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Program.cs",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM.App\\Program.cs",
-              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Program.cs",
-              "RelativeToolTip": "BethanysPieShopHRM.App\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBIAAACQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T19:25:05.184Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM.App\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Properties\\launchSettings.json",
-              "RelativeToolTip": "BethanysPieShopHRM.App\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-19T19:24:59.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM.Api\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "BethanysPieShopHRM.Api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-19T19:24:47.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "Index.html",
               "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\wwwroot\\Index.html",
               "RelativeDocumentMoniker": "BethanysPieShopHRM.App\\wwwroot\\Index.html",
               "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\wwwroot\\Index.html",
               "RelativeToolTip": "BethanysPieShopHRM.App\\wwwroot\\Index.html",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-19T19:20:46.074Z",
+              "WhenOpened": "2025-02-20T04:50:14.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BethanysPieShopHRMApi - Web Deploy.pubxml",
-              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Api\\Properties\\PublishProfiles\\BethanysPieShopHRMApi - Web Deploy.pubxml",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM.Api\\Properties\\PublishProfiles\\BethanysPieShopHRMApi - Web Deploy.pubxml",
-              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Api\\Properties\\PublishProfiles\\BethanysPieShopHRMApi - Web Deploy.pubxml",
-              "RelativeToolTip": "BethanysPieShopHRM.Api\\Properties\\PublishProfiles\\BethanysPieShopHRMApi - Web Deploy.pubxml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-02-19T19:20:37.619Z",
+              "DocumentIndex": 4,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BethanysPieShopHRM.App\\Pages\\Index.razor",
+              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Pages\\Index.razor",
+              "RelativeToolTip": "BethanysPieShopHRM.App\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T04:49:32.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\Employee.cs",
-              "RelativeDocumentMoniker": "BethanysPieShopHRM.Shared\\Employee.cs",
-              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.Shared\\Employee.cs",
-              "RelativeToolTip": "BethanysPieShopHRM.Shared\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T19:04:07.432Z",
+              "DocumentIndex": 5,
+              "Title": "Index.razor.css",
+              "DocumentMoniker": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Pages\\Index.razor.css",
+              "RelativeDocumentMoniker": "BethanysPieShopHRM.App\\Pages\\Index.razor.css",
+              "ToolTip": "D:\\PROJECTS\\BethanysPieShopHRM.App\\BethanysPieShopHRM.App\\Pages\\Index.razor.css",
+              "RelativeToolTip": "BethanysPieShopHRM.App\\Pages\\Index.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-20T04:49:00.641Z",
               "EditorCaption": ""
             }
           ]

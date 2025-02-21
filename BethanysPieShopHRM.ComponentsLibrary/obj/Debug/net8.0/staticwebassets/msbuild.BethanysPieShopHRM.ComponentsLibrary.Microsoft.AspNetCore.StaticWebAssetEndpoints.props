@@ -1,0 +1,100 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/deliveryMap.j5c5ko88s0.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\deliveryMap.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j5c5ko88s0"},{"Name":"integrity","Value":"sha256-x0D63/nxU9oxiFEVBtZe5m7hK19TIUwYDIE1G8MsAlM="},{"Name":"label","Value":"_content/BethanysPieShopHRM.ComponentsLibrary/deliveryMap.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3357"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022x0D63/nxU9oxiFEVBtZe5m7hK19TIUwYDIE1G8MsAlM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/deliveryMap.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\deliveryMap.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-x0D63/nxU9oxiFEVBtZe5m7hK19TIUwYDIE1G8MsAlM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3357"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022x0D63/nxU9oxiFEVBtZe5m7hK19TIUwYDIE1G8MsAlM=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/images/layers-2x.ef5uc09gvw.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\layers-2x.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ef5uc09gvw"},{"Name":"integrity","Value":"sha256-Bm2sqFDY/77wB68AsG6sABVyje4nnFHzy2xxbffELt8="},{"Name":"label","Value":"_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/images/layers-2x.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1259"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Bm2sqFDY/77wB68AsG6sABVyje4nnFHzy2xxbffELt8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/images/layers-2x.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\layers-2x.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Bm2sqFDY/77wB68AsG6sABVyje4nnFHzy2xxbffELt8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1259"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Bm2sqFDY/77wB68AsG6sABVyje4nnFHzy2xxbffELt8=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/images/layers.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\layers.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"696"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/images/layers.ptvguihtoq.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\layers.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ptvguihtoq"},{"Name":"integrity","Value":"sha256-Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y="},{"Name":"label","Value":"_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/images/layers.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"696"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Hbvp0CjikvNvy6j4s6KNXokydU/CIVuaxp5M3s9RB8Y=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/images/marker-icon-2x.0gkuypkyzq.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\marker-icon-2x.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0gkuypkyzq"},{"Name":"integrity","Value":"sha256-ABecTB7oMNOhCEEq4NKU9Vd2z\u002BsIXGASmjmqb8SuJSg="},{"Name":"label","Value":"_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/images/marker-icon-2x.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2464"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ABecTB7oMNOhCEEq4NKU9Vd2z\u002BsIXGASmjmqb8SuJSg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/images/marker-icon-2x.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\marker-icon-2x.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ABecTB7oMNOhCEEq4NKU9Vd2z\u002BsIXGASmjmqb8SuJSg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2464"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ABecTB7oMNOhCEEq4NKU9Vd2z\u002BsIXGASmjmqb8SuJSg=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/images/marker-icon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\marker-icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1466"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/images/marker-icon.vq9wvlav5t.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\marker-icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vq9wvlav5t"},{"Name":"integrity","Value":"sha256-V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc="},{"Name":"label","Value":"_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/images/marker-icon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1466"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022V0w6XMqF9BFAhbaEFZbWLwDXyJLHsD8oy/owHesdxDc=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/images/marker-shadow.enp07i83pd.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\marker-shadow.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"enp07i83pd"},{"Name":"integrity","Value":"sha256-Jk9cZAM58ELdcpBiz8BMF/jqDymIK1OOOEjtjxDttNo="},{"Name":"label","Value":"_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/images/marker-shadow.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"618"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Jk9cZAM58ELdcpBiz8BMF/jqDymIK1OOOEjtjxDttNo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/images/marker-shadow.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\images\marker-shadow.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jk9cZAM58ELdcpBiz8BMF/jqDymIK1OOOEjtjxDttNo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"618"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022Jk9cZAM58ELdcpBiz8BMF/jqDymIK1OOOEjtjxDttNo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/leaflet.7x5x9225vf.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\leaflet.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7x5x9225vf"},{"Name":"integrity","Value":"sha256-xRK8RQmYAZjMTR2Wks499L2ILHa9LlRLTWuxVp\u002Bz8ww="},{"Name":"label","Value":"_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/leaflet.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"141057"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022xRK8RQmYAZjMTR2Wks499L2ILHa9LlRLTWuxVp\u002Bz8ww=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/leaflet.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\leaflet.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YR4HrDE479EpYZgeTkQfgVJq08\u002B277UXxMLbi/YP69o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14106"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022YR4HrDE479EpYZgeTkQfgVJq08\u002B277UXxMLbi/YP69o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/leaflet.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\leaflet.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xRK8RQmYAZjMTR2Wks499L2ILHa9LlRLTWuxVp\u002Bz8ww="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"141057"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022xRK8RQmYAZjMTR2Wks499L2ILHa9LlRLTWuxVp\u002Bz8ww=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/leaflet.l3uk5ljubh.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\leaflet\leaflet.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l3uk5ljubh"},{"Name":"integrity","Value":"sha256-YR4HrDE479EpYZgeTkQfgVJq08\u002B277UXxMLbi/YP69o="},{"Name":"label","Value":"_content/BethanysPieShopHRM.ComponentsLibrary/leaflet/leaflet.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14106"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022YR4HrDE479EpYZgeTkQfgVJq08\u002B277UXxMLbi/YP69o=\u0022"},{"Name":"Last-Modified","Value":"Sat, 15 Feb 2025 04:22:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

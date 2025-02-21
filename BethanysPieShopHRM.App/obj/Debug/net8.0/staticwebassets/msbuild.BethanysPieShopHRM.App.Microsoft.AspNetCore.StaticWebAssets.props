@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>h0i5z5p2a8</Fingerprint>
-      <Integrity>cTH5RCWCTtIBrG4Lw8PX8rmVhdkO8w6k+f0yqvQdYnA=</Integrity>
+      <Fingerprint>ypqakwflo3</Fingerprint>
+      <Integrity>OhZittK3t5C65KQ3n3aWUQTk6Py3gM0dhoiogKtteN4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BethanysPieShopHRM.App.styles.css'))</OriginalItemSpec>
